@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+
+# Uploaded files
+uploads/*
+
+# Keep uploads folder
+!uploads/.gitkeep
+
+# macOS
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment variables
+.env
